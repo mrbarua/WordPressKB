@@ -1,0 +1,1 @@
+Typically, large-high-quality images should be kept between 100K and 60K. Smaller images should be closer to 30K and lower.
