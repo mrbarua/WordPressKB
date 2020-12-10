@@ -1,1 +1,3 @@
 Typically, large-high-quality images should be kept between 100K and 60K. Smaller images should be closer to 30K and lower.
+
+As a general rule, WordPress image sizes should be no bigger than 150kb except for large photos.

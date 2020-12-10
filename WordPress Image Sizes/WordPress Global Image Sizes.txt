@@ -1,0 +1,29 @@
+
+=> Best WORDPRESS Logo Size 
+BEST IMAGE SIZES FOR WORDPRESS Logo Size: 200*100
+
+=> Recommended Image Sizes for WordPress Content
+If you decide that the image sizes WordPress automatically generates when uploading new media don’t fit with what you need, 
+here are some recommended sizes for content to look at its best on any device.
+
+
+Blog post image size (1200 x 630 pixels)
+Header image size (banner size 1048 x 250 pixels)
+Featured image size (landscape 1200 x 900 pixels)
+Featured image size (portrait 900 x 1200 pixels)
+WordPress background image size (1920 x 1080 pixels)
+Logo image size (200 x 100 pixels)
+Thumbnail image size (150 x 150 pixels)
+
+
+Blog posts: 1200 x 630px
+Hero images (full screen images): 2880 x 1500px
+Landscape feature image: 900 x 1200px
+Portrait feature image: 1200 x 900
+Fullscreen slideshow: 2800 x 1500px
+Gallery images: 1500px x auto width
+
+Background Images : 1920*1080
+Featured Image : 1200*900 Landscspe
+Featured Image : 900*1200 Portait
+Thumbnail Image : 150*150
